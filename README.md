@@ -60,7 +60,7 @@ This dataset is ideal for:
 ## 📎 Citation
 
 If you use this dataset, please cite the book:  
-**"AI-Powered Cybersecurity for Industrial IoT and Wireless Sensor Networks"**  
+**"AI and ML-Driven Cybersecurity: Industrial IoT and WSN with Python Scripting"**  
 by *Atdhe Buja* (To be released / under publication)
 
 ---
